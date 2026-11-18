@@ -1,0 +1,13 @@
+{
+  "name": "lego-parkour-3d",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "start": "node server.mjs"
+  },
+  "dependencies": {
+    "esbuild": "^0.25.0",
+    "three": "^0.187.0"
+  }
+}
